@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1031936834226",
+    "project_id": "vision11demo",
+    "storage_bucket": "vision11demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031936834226:android:d3a610aeafeda427d067ab",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpatCxVX9qJ7ysIl5U1oitqX6bo8T7toQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
